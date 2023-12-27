@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+This is a react web application used to visualize a 15 man basketball team rotation.
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
