@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Basketball Rotation Visualizer
 This is a react web application used to visualize a 15 man basketball team rotation.
 
 # Getting Started with Create React App
